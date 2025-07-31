@@ -1,0 +1,8 @@
+ body {
+    background-color: #CEE2FF;
+    height: 100vh;
+    background-image: url(https://id.pinterest.com/pin/92605336067933402/);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
